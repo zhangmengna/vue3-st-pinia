@@ -7,6 +7,9 @@
 购物车商品的展示，删除商品<br>
 商品结算
 
+![image](https://user-images.githubusercontent.com/34782603/189386538-36ec8bf9-4d6b-4efc-8416-ce918d15c30f.png)
+
+
 ## 项目启动
 
 yarn install <br>
